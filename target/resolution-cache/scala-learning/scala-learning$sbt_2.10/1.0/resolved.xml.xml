@@ -4,7 +4,7 @@
 		module="scala-learning$sbt_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20140629212004"
+		publication="20140708000520"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
